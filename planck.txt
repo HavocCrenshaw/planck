@@ -1,0 +1,11 @@
+This text file was written in Planck V1.
+
+Planck provides a few features:
+
+	- CTRL+Q to save & quit.
+	- Left arrow to move backwards in the file.
+	- Right arrow to move right in the file.
+	- Backspace to delete a character.
+	- Russian roulette with your files
+
+ that's it)
