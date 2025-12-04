@@ -1,7 +1,7 @@
 # planck
 The smallest (& worst) text editor ever. I wanted to make a really small text\
 editor, inspired by kilo and uEmacs. I didn't plan for it to be any good, and I\
-just kind of threw something together having fun.\
+just kind of threw something together having fun.
 
 I did this with practically no idea what I was doing as well. I'm brand new to\
 everything I did here, I was more used to game type stuff, using OpenGL, Qt,\
