@@ -8,3 +8,7 @@
   assurity, or else you end up with basically all the insane decisions made
   here.
 - C++ sucks, C is superior.
+- Micro optimization doesn't matter, but macro optimization does.
+- Review your own code.
+- Try to look for simpler ways to do the same thing.
+- Don't be sorry for yourself.

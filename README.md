@@ -1,25 +1,17 @@
 # planck
-I wanted to make a text editor that was the smallest it could be before it stops
-being a text editor. I didn't really plan for it to be any good, in fact if it
-was terrible that would be sort of funny, but the level of garbage code that
-this project has been unprecedented. It was fun, though. It's a project I've
-finished. It's arguably functional. I really can't be assed to do anymore.
+The smallest (& worst) text editor ever. I wanted to make a really small text\
+editor, inspired by kilo and uEmacs. I didn't plan for it to be any good, and I\
+just kind of threw something together having fun.\
 
-I also did this with absolutely no idea what I was doing. I used ptext for
-reference and had a lot of bashing my head and made some stupid decisions. This
-is quite literally the first project I have ever finished so far (if you can
-call segfaulting on occasion "finished" but to fix that would require me to
-completely restructure the program. so, v2 maybe, but v1 is finished) and it's
-the first time I've ever done anything even remotely like this, I'm used to
-GUI and graphics, calling OpenGL or GDI, and using Qt or Win32 in C++. This was
-way out of what I do, being a C99 terminal text editor.
+I did this with practically no idea what I was doing as well. I'm brand new to\
+everything I did here, I was more used to game type stuff, using OpenGL, Qt,\
+stuff like that. And this is also the first project I've "finished" (if you can\
+call segfaulting on occasion "finished," but to fix that would require a com-\
+plete rewrite.)
 
-But I learnt a lot, and really loved doing it.
+I learnt a lot, and really loved doing it. V2 sometime.
 
-V2 sometime.
-
-WARNING: PLEASE DON'T USE THIS--- YOU WILL LOSE DATA. IT WILL SEGFAULT. I CANNOT
-BE ASSED TO FIX IT. DO NOT USE. DO NOT USE. DO NOT USE. Unless you understand
-that it's broke and wanna use it for fun. In that case, go ahead. But don't
-blame me if your computer blows up, or your data. Do not pull request or open
-issues-- I will not be answering them. If you like the idea, just fork.
+WARNING: Do not use this for anything serious. You WILL lose data. If you under-\
+stand that this isn't a good piece of software, and want to fool around, go\
+ahead. Do not blame me if something happens. Do not pull request or open issues,\
+I will not be answering them. If you like the idea, fork the project.\

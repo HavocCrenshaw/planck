@@ -6,6 +6,6 @@ Planck provides a few features:
 	- Left arrow to move backwards in the file.
 	- Right arrow to move right in the file.
 	- Backspace to delete a character.
-	- Russian roulette with your files
+	- Russian roulette with your files.
 
- that's it)
+ (that's it)
