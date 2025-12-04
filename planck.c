@@ -33,7 +33,7 @@
 
 static struct termios def_attrs;
 
-static uint64_t idx          = 0;
+static uint64_t idx         = 0;
 static uint64_t elems       = 0;
 static char*    file_buf    = NULL;
 static char*    file_name   = NULL;
