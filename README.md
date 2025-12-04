@@ -14,4 +14,4 @@ I learnt a lot, and really loved doing it. V2 sometime.
 WARNING: Do not use this for anything serious. You WILL lose data. If you under-\
 stand that this isn't a good piece of software, and want to fool around, go\
 ahead. Do not blame me if something happens. Do not pull request or open issues,\
-I will not be answering them. If you like the idea, fork the project.\
+I will not be answering them. If you like the idea, fork the project.
